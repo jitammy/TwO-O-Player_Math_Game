@@ -11,24 +11,24 @@
 -------------------------------
 -- Welcome to the MathGame ! --
 -------------------------------
-player1: What does 19 plus 6 equals ?
-00:00:03
-00:00:02
-00:00:01
-00:00:00
-25
-player1: Yes! You are right! 
------------ New Turn ----------
-p1: 3/3 vs p2: 3/3
-player2: What does 2 plus 13 equals ?
-00:00:03
-00:00:02
-00:00:01
-00:00:00
-2
-player2: Seriously ? No!
-... some time later ...
------------ New Turn ----------
-p1: 1/3 vs p2: 0/3
-Player 1 wins with a score of 1/3
----------- GAME OVER ------
+player1: What does 19 plus 6 equals ? <br/>
+00:00:03 <br/>
+00:00:02 <br/>
+00:00:01 <br/>
+00:00:00 <br/>
+25<br/>
+player1: Yes! You are right! <br/>
+----------- New Turn ----------<br/>
+p1: 3/3 vs p2: 3/3<br/>
+player2: What does 2 plus 13 equals ?<br/>
+00:00:03<br/>
+00:00:02<br/>
+00:00:01<br/>
+00:00:00<br/>
+2<br/>
+player2: Seriously ? No!<br/>
+... some time later ...<br/>
+----------- New Turn ----------<br/>
+p1: 1/3 vs p2: 0/3<br/>
+Player 1 wins with a score of 1/3<br/>
+---------- GAME OVER ------<br/>
